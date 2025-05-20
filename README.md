@@ -1,7 +1,7 @@
 
 # 💼 Wells Fargo Virtual Experience Program – Task 2: Counselor Project
 
-This repository contains my implementation of **Task 2** from the Wells Fargo Software Engineering Virtual Internship. The task involves building a simple backend structure for a financial counselor application using **Java** and **Spring Boot**.
+This repository contains my implementation of **Task 2** from the Wells Fargo Software Engineering Job Simulation. The task involves building a simple backend structure for a financial counselor application using **Java** and **Spring Boot**.
 
 ---
 
@@ -85,7 +85,7 @@ Unit test provided in `CounselorApplicationTests.java`:
 
 ## ✅ Submission
 
-This project was submitted as part of the Wells Fargo Forage Virtual Experience Program.
+This project was submitted as part of the Wells Fargo Software Engineering Job Simulation on Forage.
 
 
 
