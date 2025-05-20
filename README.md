@@ -1,5 +1,4 @@
 
-```markdown
 # 💼 Wells Fargo Virtual Experience Program – Task 2: Counselor Project
 
 This repository contains my implementation of **Task 2** from the Wells Fargo Software Engineering Virtual Internship. The task involves building a simple backend structure for a financial counselor application using **Java** and **Spring Boot**.
@@ -90,7 +89,3 @@ This project was submitted as part of the Wells Fargo Forage Virtual Experience 
 
 ```
 
----
-
-Let me know if you'd like me to directly generate the file content for GitHub or help you upload it ✨
-```
