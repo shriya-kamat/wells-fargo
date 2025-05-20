@@ -1,6 +1,3 @@
-Here’s a cleaner, more professional, and personalized `README.md` for your **Wells Fargo Counselor Project** – feel free to tweak it:
-
----
 
 ```markdown
 # 💼 Wells Fargo Virtual Experience Program – Task 2: Counselor Project
